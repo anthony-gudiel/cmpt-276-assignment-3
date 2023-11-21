@@ -156,3 +156,7 @@ h4{
 .react-logo{
     margin-top: 20px;
 }
+
+.about{
+    max-width: 80%;
+}

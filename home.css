@@ -53,7 +53,7 @@ header {
 header a{
     text-decoration: none;
     font-weight: lighter;
-    margin-right: 30px;
+    margin-right: 40px;
     color: black;
     &:hover{
         color: gray;

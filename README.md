@@ -30,24 +30,27 @@ For this task, please include your answers for the questions described in the [A
 
 ### Q0
 
-[insert answer here]
+https://github.com/anthony-gudiel/cmpt-276-assignment-3
 
 ### Q1
 
-[insert answer here]
+My website includes a little bit about me, where I am in my career as of right now, some skills that I have and some that I'd like to acquire. Using the header, you can navigate to different areas of my site, which provides little bits of insight into who I am. 
 
 ### Q2
 
-[insert answer here]
+A favicon is the little image that pops up on the tab beside the name of the tab in a browser.
 
 ### Q3
 
-[insert answer here]
+A service that allows users to host static websites directly from their github repositories.
 
 ### Q4
 
-[insert answer here]
+Github Actions is a CI/CD system provided by Github, allowing you to automate your workflow for your repos. For example, if something were pushed to the main branch, it could be automated so that the workflow is automatically triggered once that happens.
 
 ### Q5
 
-[insert answer here]
+I used HTML and CSS, as it's what I know best, even though I'm still not quite where I'd like to be with it just yet. 
+
+## MIT License
+I chose the MIT license because I know that it's a common license to use on Github. It seems easy to understand, apparently works well with other licenses, and encourages collaboration in the open-source community.

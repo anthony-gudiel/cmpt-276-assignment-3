@@ -32,6 +32,8 @@ For this task, please include your answers for the questions described in the [A
 
 https://github.com/anthony-gudiel/cmpt-276-assignment-3
 
+https://anthony-gudiel.github.io/cmpt-276-assignment-3/index.html
+
 ### Q1
 
 My website includes a little bit about me, where I am in my career as of right now, some skills that I have and some that I'd like to acquire. Using the header, you can navigate to different areas of my site, which provides little bits of insight into who I am. 

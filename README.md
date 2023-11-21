@@ -56,3 +56,5 @@ I used HTML and CSS, as it's what I know best, even though I'm still not quite w
 
 ## MIT License
 I chose the MIT license because I know that it's a common license to use on Github. It seems easy to understand, apparently works well with other licenses, and encourages collaboration in the open-source community.
+
+[AI Disclosure](A3_AI_Declaration_Anthony_Gudiel_301548411.pdf)
